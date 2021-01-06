@@ -1,0 +1,46 @@
+#navbar{
+    background-color: black;
+}
+#tarjetaPresentacion{
+    background-color: aqua;
+}
+.btn-css{
+    margin-left: 10px;
+    background-color: rgb(0, 58, 219);
+}
+
+.img-tarj{
+    width: 200px;
+    height: 225px;
+    border-style: solid;
+    border-width: 8px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.card{
+    margin-top: 15px;
+    border-style: ridge;
+    border-width: 4px;
+    border-color: rgb(30, 144, 255);
+    /*background-color: rgb(139, 195, 251);*/
+    background-image: url(../images/code.png);
+    color: white;
+}
+
+.cardSubt{
+    margin-top: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 22px;
+}
+
+.cardTit{
+    margin-top: 25px;
+}
+body{
+    background-image: url(../images/backbody.jpg);
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+}
